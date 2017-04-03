@@ -1,0 +1,35 @@
+body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.button-one {
+  background: #659eff;
+  border: 2px solid #3781ff;
+  border-radius: 3px;
+  color: 111;
+  font-size: 20px;
+  height: 50px;
+  width: 100px;
+}
+
+.button-two {
+  background: none;
+  border: none;
+  height: 90px;
+  width: 100px;
+}
+
+.button-three {
+  cursor: pointer;
+  display: inline-block;
+}
